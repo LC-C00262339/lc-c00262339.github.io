@@ -1,3 +1,8 @@
+body
+{
+    font-family: sans-serif;
+}
+
 body, html
 {
     height: 50%;
@@ -13,7 +18,7 @@ h1
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-ul
+.navbar ul
 {
     list-style-type: none;
     margin: 0;
@@ -22,12 +27,12 @@ ul
      background-color: #333;
 }
 
-li
+.navbar li
 {
     float: left;
 }
 
-li a 
+.navbar li a 
 {
     display: block;
     padding: 14px 16px;
@@ -36,7 +41,7 @@ li a
     text-decoration: none;
 }
 
- li a:hover 
+.navbar li a:hover 
 {
     background-color: #111;
 }
@@ -72,4 +77,11 @@ li a
     left: 50%; 
     transform: translate(-50%, -50%); 
     color: white;
+}
+
+/* Blog Post Styling */
+
+.byline
+{
+    text-align: right;
 }

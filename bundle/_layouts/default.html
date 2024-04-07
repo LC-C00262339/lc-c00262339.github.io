@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name=viewport content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="css/stylesheet.css">
+    <link rel="stylesheet" href="/css/stylesheet.css">
 </head>
 
 
@@ -18,22 +18,24 @@
     </div>
 
      <header>
-        <nav>
-            <ul class="nav-ul">
-                <li class="nav-li">
-                    <a class="active" href="index.html">Homepage</a> 
-                </li>
-                <li class="nav-li">
-                    <a href="posts.html">Posts</a>
-                </li>
-                <li class="nav-li">
-                    <a href="gallery.html">Gallery</a>
-                </li>
-                <li class="nav-li">
-                    <a href="makingof.html">Making Of</a>
-                </li>
-            </ul>
-        </nav>
+        <div class="navbar">
+            <nav>
+                <ul>
+                    <li class="nav-li">
+                        <a class="active" href="/index.html">Homepage</a> 
+                    </li>
+                    <li class="nav-li">
+                        <a href="/posts.html">Posts</a>
+                    </li>
+                    <li class="nav-li">
+                        <a href="/gallery.html">Gallery</a>
+                    </li>
+                    <li class="nav-li">
+                        <a href="/makingof.html">Making Of</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
     {{ content }}

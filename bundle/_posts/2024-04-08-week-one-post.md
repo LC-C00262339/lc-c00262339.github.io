@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Leo
-title:  "Week 1 - January"
+title:  "Week 1 - Archen"
 date: 2024-04-08
 ---
 
@@ -9,4 +9,10 @@ At the start of the project, I began by sketching things that I was already comf
 
 ![Week 1 Drawing #1 - Headshot sketch of Archen from Pokémon dated 08/01/2024](/assets/images/weekonedrawingone.png)
 
-After sketching, I found that the sketch was quite small and that some of the Archen's features were off. The back of Archen's head is blue, curving around the eye, while everything after the eye is red. In the sketch I made, Archen's eye is solely around the red area and never touches the blue curve. In addition, the back of the head is quite flat (I tried to compensate by making the lines thicker) and the bottom of the beak seemingly connects to nothing. 
+After sketching, I found that the sketch was quite small and that some of the Archen's features were off. The back of Archen's head is blue, curving around the eye, while everything after the eye is red. In the sketch I made, Archen's eye is solely around the red area and never touches the blue curve. In addition, the back of the head is quite flat (I tried to compensate by making the lines thicker) and the bottom of the beak seemingly connects to nothing. These errors became a lot more noticable when I compared it to official artwork of the character.
+
+![Official art of Archen (credit - Ken Sugimori)](/assets/images/0566Archen.png)
+
+I decided to redo the sketch the following day. I used a bigger circle for constructing the drawing than the previous one, as it would make the drawing stand out more and make it easier to fix any errors instead of starting from scratch.
+
+![Week 1 Drawing #2 - Another headshot sketch of Archen dated 09/01/2024](/assets/images/weekonedrawingtwo.png)

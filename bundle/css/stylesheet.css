@@ -8,14 +8,21 @@ body, html
     height: 50%;
 }
 
+.content
+{
+    background-color: white;
+    max-width: 800px;
+    margin-left: 25px;
+}
+
 p
 {
     font-size: 18px
 }
 
-h1
+h1, h2
 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat';
 }
 
 .navbar ul
@@ -87,3 +94,5 @@ h1
 {
     text-align: right;
 }
+
+/* Blog Post Display */

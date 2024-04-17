@@ -15,4 +15,4 @@ After sketching, I found that the sketch was quite small and that some of the Ar
 
 I decided to redo the sketch the following day. I used a bigger circle for constructing the drawing than the previous one, as it would make the drawing stand out more and make it easier to fix any errors instead of starting from scratch.
 
-![Week 1 Drawing #2 - Another headshot sketch of Archen dated 09/01/2024](/assets/images/weekonedrawingtwo.png)
+![Week 1 Drawing #2 - Another headshot sketch of Archen, dated 09/01/2024](/assets/images/weekonedrawingtwo.png)

@@ -4,6 +4,7 @@ title: Blog
 ---
 <h1>Latest Posts</h1>
 
+<div class="feed">
 <ul>
   {% for post in site.posts %}
     <li>
@@ -12,3 +13,4 @@ title: Blog
     </li>
   {% endfor %}
 </ul>
+</div>

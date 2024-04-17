@@ -3,10 +3,10 @@ body
     font-family: sans-serif;
 }
 
-body, html
+/* body, html
 {
     height: 50%;
-}
+} */
 
 .content
 {
@@ -55,11 +55,6 @@ h1, h2
     background-color: #111;
 }
 
-.active 
- {
-    background-color: #04AA6D;
- }
-
 .title
 {
     text-align: center;
@@ -105,3 +100,8 @@ h1, h2
 }
 
 /* Blog Post Display */
+
+.content ul 
+{
+    border: 5px solid black;
+}

@@ -104,12 +104,14 @@ h1, h2
 
 .banner-text
 {
-    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 28px;
+    text-align: right;
     position: absolute;
-    top: 50%;
-    left: 50%; 
-    transform: translate(50%, 50%); 
-    color: red;
+    /* top: 50%;
+    left: 50%;  */
+    transform: translate(50px, 250px); 
+    color: #ffffff
 }
 
 /* Blog Post Styling */

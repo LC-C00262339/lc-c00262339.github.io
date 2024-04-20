@@ -14,6 +14,6 @@ The bird I chose to draw next is an ovenbird, a small American warbler that rese
 
 I drew two sketches of the bird - one standing, and the other in flight. Drawing the bird. Getting the anatomy right wasn't an issue, since it has a fairly straightforward circular shape, with two crescents for the wings. While I struggle with drawing feathers, I feel I got the rounded shape right. The tailfeathers should be bigger and less rectangular, and I should practice on trying to draw the feet when in flight. Nonetheless, these could easily be used in an animation. 
 
-![Week 2 Drawings - Sketches of ovenbird standing and in flight, dated 17/01/2024](/assets/images/weektwodrawings.png){:width="100%" height="100%"}
+![Week 2 Drawings - Sketches of ovenbird standing and in flight, dated 17/01/2024](/assets/images/weektwodrawings.PNG){:width="100%" height="100%"}
 
 <h5>Image sources: Ryan Schain & Macaulay Library, Steve Bisson & Savannah Now</h5>

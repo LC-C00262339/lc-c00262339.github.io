@@ -1,3 +1,27 @@
+:root
+{
+    height: 100%;
+}
+
+div.banner
+{ 
+    position: relative; 
+    /* temporarily remove background-position */
+}
+
+div.banner-text 
+    {
+    /* temporarily remove top and left */
+    /* temporarily remove transform */
+    bottom: 0;
+    right: 0;
+    }
+
+div.banner-text h1 
+{
+    margin: 0;
+}
+
 body
 {
     font-family: sans-serif;
@@ -95,8 +119,8 @@ h1, h2
 
 .banner
 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/blogbannercrop.png');
-    background-position: center center, center -200px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/images/blogbannercrop367.png');
+    background-position: center center, center -180px; 
     background-size: contain, cover;
     background-repeat: no-repeat;
     height: 367px;
@@ -109,8 +133,8 @@ h1, h2
     text-align: right;
     position: absolute;
     /* top: 50%;
-    left: 50%;  */
-    transform: translate(50px, 250px); 
+    left: 50%;  
+    transform: translate(50px, 250px); */
     color: #ffffff
 }
 
@@ -129,3 +153,30 @@ h1, h2
     border-top: 1px solid black; 
 
 } 
+
+/* Gallery Styling */
+
+.gallery
+{
+
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+
+}
+
+.gallery:hover 
+{
+
+  border: 1px solid #777;
+
+}
+
+.gallery img 
+{
+
+  width: 100%;
+  height: auto;
+
+}

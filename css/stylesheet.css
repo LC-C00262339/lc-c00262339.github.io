@@ -53,7 +53,7 @@ h1, h2
 {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0; 
     overflow: hidden;
     background-color: #006666;
 }
@@ -85,14 +85,30 @@ h1, h2
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/* Link color scheme */
+
+.content a:link
+{
+    color: #3EB489;
+}
+
+.content a:hover
+{
+    color:	#4FFFB0;
+}
+
+.content a:visited
+{
+    color: #00CCFF;
+}
+
 /* Footer */
 
 .footer ul
 {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     overflow: hidden;
+    clear: both;
     background-color: #414A4C;
 }
 
@@ -147,7 +163,14 @@ h1, h2
 
 /* Blog Post Display */
 
-.feed li:not(:first-child)
+.post-list li
+{
+
+    list-style-type: none;
+
+}
+
+.post-list li:not(:first-child)
 { 
     
     border-top: 1px solid black; 
@@ -159,24 +182,36 @@ h1, h2
 .gallery
 {
 
-    margin: 5px;
+   /* margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 180px;
+    width: 180px; */
 
-}
-
-.gallery:hover 
-{
-
-  border: 1px solid #777;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
 
 }
 
 .gallery img 
 {
 
-  width: 100%;
-  height: auto;
+    border: 1px solid #ccc;
+    max-width: 100%; 
+    max-height: 200px
 
+}
+
+.gallery img:hover 
+{
+
+  border-color: #777;
+
+}
+
+/* Making Of images */
+
+.makingof-image
+{
+    border: 1px solid #ccc;
 }

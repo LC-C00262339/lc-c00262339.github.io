@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Blog Posts
+title: Blog
 ---
 <h1>Latest Posts</h1>
-
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
@@ -12,4 +11,3 @@ title: Blog Posts
     </li>
   {% endfor %}
 </ul>
-

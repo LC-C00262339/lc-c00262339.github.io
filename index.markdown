@@ -12,4 +12,14 @@ This blog is a project dedicated to tracking my art progress through a period of
 
 <h2>Latest Drawings</h2>
 
-<p>Click here to see more!</p>
+<div class="gallery">
+    <a target="_blank" href="assets/images/weeksevendrawingtwo.PNG">
+     <img src="assets/images/weeksevendrawingtwo.PNG" alt="Mienfoo sketch dated 28/02/2024" width="274" height="960">
+    </a>
+    <a target="_blank" href="assets/images/weekfivedrawing.PNG">
+     <img src="assets/images/weekfivedrawing.PNG" alt="Bridge sketch dated 08/02/2024" width="980" height="615">
+    </a>
+</div>
+
+
+<a href="/gallery.html">Click here to see more!</a>

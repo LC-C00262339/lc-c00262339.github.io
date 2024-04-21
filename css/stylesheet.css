@@ -154,6 +154,18 @@ h1, h2
     color: #ffffff
 }
 
+/* Mobile Banner Display 
+
+@media only screen and (max-width: 600px)
+{
+    .banner
+    {
+
+    }
+}
+
+*/
+
 /* Blog Post Styling */
 
 .byline

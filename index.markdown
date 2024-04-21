@@ -8,7 +8,7 @@ layout: default
 
 <h1>Art Blog Homepage</h1>
 
-This blog is a project dedicated to tracking my art progress through a period of 12 weeks from January to April 2024. My goal for this project is to improve how I draw and to create a drawing routine. In addition to entries describing drawings I've done, I intend to have a gallery showcasing the works I've done.
+This blog is a project dedicated to tracking my art progress through a period of 7 weeks. My goal for this project is to improve how I draw and to create a drawing routine. In addition to entries describing drawings I've done, I intend to have a gallery showcasing the works I've done.
 
 <h2>Latest Drawings</h2>
 

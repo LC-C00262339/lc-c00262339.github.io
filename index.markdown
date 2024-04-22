@@ -17,7 +17,7 @@ This blog is a project dedicated to tracking my art progress through a period of
      <img src="assets/images/weekfivedrawing.PNG" alt="Bridge sketch dated 08/02/2024" width="980" height="615">
     </a>
        <a target="_blank" href="assets/images/weekfourdrawing.PNG">
-     <img src="assets/images/weekfivedrawing.PNG" alt="Tree sketch dated 02/02/2024" width="980" height="615">
+     <img src="assets/images/weekfourdrawing.PNG" alt="Tree sketch dated 02/02/2024" width="980" height="615">
     </a>
 </div>
 

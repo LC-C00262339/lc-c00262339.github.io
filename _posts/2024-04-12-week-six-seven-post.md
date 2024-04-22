@@ -2,7 +2,7 @@
 layout: post
 author: Leo
 title: "Week 6 and 7 - Full Body Picture"
-date: 2024-04-12
+date: 2024-04-12 18:00
 ---
 
 At the start of the project, I did sketches of a Pokémon's head. I feel it would be fitting to end this project by drawing a full body Pokémon, particularly a more animalistic one. And I decided to pick Mienfoo. Mienfoo has quite a lot of character, having baggy sleeves over its limbs, and a humanoid form, and I've always struggled with more humanoid forms.

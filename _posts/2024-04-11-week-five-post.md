@@ -2,7 +2,7 @@
 layout: post
 author: Leo
 title: "Week 5 - Scenery"
-date: 2024-04-11
+date: 2024-04-11 12:36
 ---
 
 One thing I've never gotten the hang of in art is perspective. Without proper perspective, a drawing can look flat and lifeless. Perspective's especially important when it comes to backgrounds and scenery, as you want the drawing's contents to stand out and have depth.

@@ -2,7 +2,7 @@
 layout: post
 author: Leo
 title: "Week 1 - Archen"
-date: 2024-04-08
+date: 2024-04-08 17:41
 ---
 
 At the start of the project, I began by sketching things that I was already comfortable with. My first drawing was on January 8, a week before the semester began. It is a headshot sketch of Archen, a Pokémon species based on birds and avian dinosaurs. 

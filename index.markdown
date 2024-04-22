@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 title: Art Blog
 layout: default
 ---
@@ -18,6 +15,9 @@ This blog is a project dedicated to tracking my art progress through a period of
     </a>
     <a target="_blank" href="assets/images/weekfivedrawing.PNG">
      <img src="assets/images/weekfivedrawing.PNG" alt="Bridge sketch dated 08/02/2024" width="980" height="615">
+    </a>
+       <a target="_blank" href="assets/images/weekfourdrawing.PNG">
+     <img src="assets/images/weekfivedrawing.PNG" alt="Tree sketch dated 02/02/2024" width="980" height="615">
     </a>
 </div>
 

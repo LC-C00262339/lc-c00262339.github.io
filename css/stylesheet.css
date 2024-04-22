@@ -1,6 +1,17 @@
+/* Desktop font */
 :root
 {
     height: 100%;
+    font-size: 14pt; 
+}
+
+/* Mobile font */
+@media only screen and (max-width: 600px)
+{
+    :root
+    {
+        font-size: 10pt;
+    }
 }
 
 div.banner
@@ -10,12 +21,12 @@ div.banner
 }
 
 div.banner-text 
-    {
+{
     /* temporarily remove top and left */
     /* temporarily remove transform */
     bottom: 0;
     right: 0;
-    }
+}
 
 div.banner-text h1 
 {
@@ -26,11 +37,6 @@ body
 {
     font-family: sans-serif;
 }
-
-/* body, html
-{
-    height: 50%;
-} */
 
 .content
 {
@@ -154,17 +160,15 @@ h1, h2
     color: #ffffff
 }
 
-/* Mobile Banner Display 
+/* Mobile Banner Display  */
 
 @media only screen and (max-width: 600px)
 {
     .banner
     {
-
+        background-position: center center, left 0px;
     }
 }
-
-*/
 
 /* Blog Post Styling */
 
